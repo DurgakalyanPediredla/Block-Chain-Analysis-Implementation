@@ -1,4 +1,4 @@
-Blockchain Analysis Implementation:
+**Blockchain Analysis Implementation:**
 Introduction
 Financial technology has had a profound positive impact on the financial services industry. However, amidst such technological innovation and unbridled growth, fraudsters have been able to identify and exploit gaps. In essence, as technology develops at pace, fraudsters find new ways to cheat the system through adaptive methods. Internal bank fraud is a particularly complex problem to solve, as those who commit this type of fraud do so from a trusted position inside the bank which they work for. Moreover, from the bank’s perspective, they assume that there are sufficient preventative measures in place. 
 The issue is, though, the employees entrusted with power over financial systems and databases have a deep understanding of how they can be manipulated. Of the various ways bank employees can commit internal fraud, transaction reversals and account manipulation are the most difficult to detect. Our implementation nullifies both scenarios, utilising an immutable blockchain that records bank employee access attempts as a transaction. 
