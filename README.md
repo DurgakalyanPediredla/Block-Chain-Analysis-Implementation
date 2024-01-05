@@ -8,8 +8,8 @@ All sensitive loan account details are stored in loan_account_statment.json. Any
 Here, I have written a Python code that generates a block with embedded transaction details in the form of a dictionary. The simulation will encompass numerous access requests by bank employees. The ultimate objective is to architect a blockchain structure containing data access transactions. Most transactional queries in the blockchain are conducted in JSON (JavaScript Object Notation format). A JSON format is very similar to a Python dictionary.
 
 **Libraries Used:**
-**Pandas**
-**Json**
-**Time**
-**Random**
-**hashlib**
+**Pandas,**
+**Json,**
+**Time,**
+**Random,**
+**hashlib.**
