@@ -5,5 +5,5 @@ Each transaction represents a singular access to an account by a bank personnel.
 
 All sensitive loan account details are stored in loan_account_statment.json. Any access to this information necessitates the permanent logging of these access records on a tamper-resistant blockchain network for audit trails. 
 
-In this assignment, I wrote a Python code that generates a block with embedded transaction details in the form of a dictionary. The simulation will encompass numerous access requests by bank employees. The ultimate objective is to architect a blockchain structure containing data access transactions. Most transactional queries in the blockchain are conducted in JSON (JavaScript Object Notation format). A JSON format is very similar to a Python dictionary.
+Here, I have written a Python code that generates a block with embedded transaction details in the form of a dictionary. The simulation will encompass numerous access requests by bank employees. The ultimate objective is to architect a blockchain structure containing data access transactions. Most transactional queries in the blockchain are conducted in JSON (JavaScript Object Notation format). A JSON format is very similar to a Python dictionary.
 
